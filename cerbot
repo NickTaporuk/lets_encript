@@ -1,0 +1,4 @@
+## SOURCE URL
+  https://certbot.eff.org/docs/using.html#certbot-commands
+## GENERATE cert 
+  certbot certonly --cert-name ownhome.com.ua -d ownhome.com.ua,www.ownhome.com.ua,es.ownhome.com.ua
